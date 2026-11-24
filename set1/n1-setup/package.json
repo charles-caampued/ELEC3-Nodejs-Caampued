@@ -1,0 +1,19 @@
+{
+  "name": "caampued-setup",
+  "version": "1.0.0",
+  "description": "First Node.js activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Charles Caampued",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "semver": "^7.7.3"
+  }
+}
